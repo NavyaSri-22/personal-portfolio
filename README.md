@@ -13,7 +13,6 @@ A responsive, accessible, and interactive personal portfolio web application bui
 - **Responsive CSS3 & Bootstrap 5 Design:** Utilizes Bootstrap’s mobile-first grid system, flexbox containers, custom spacing, modern visual cards, and typography.
 - **Interactive Dark/Light Mode:** Includes an ES6+ JavaScript theme toggler that seamlessly switches color variables for comfortable viewing in both themes.
 - **Dynamic Project Search & Filter:** Real-time client-side JavaScript filtering allowing users to search and sort projects dynamically without reloading the page.
-- **Client-Side Form Handling:** Interactive contact form featuring custom JavaScript input checks along with direct `mailto:` integration for reliable communication delivery.
 - **Academic Summary Table:** Includes a responsive Bootstrap-styled table outlining educational credentials and academic standing.
 
 ---
