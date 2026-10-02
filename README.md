@@ -4,7 +4,7 @@ A responsive, accessible, and interactive personal portfolio web application bui
 
 ## 🚀 Live Repository
 * **GitHub Repository:** [https://github.com/NavyaSri-22/personal-portfolio](https://github.com/NavyaSri-22/personal-portfolio)
-*  Live Website: https://navyasri-22.github.io/personal-portfolio/
+* **Live Website:** https://navyasri-22.github.io/personal-portfolio/
 
 ---
 
