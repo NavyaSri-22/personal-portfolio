@@ -2,13 +2,13 @@
 
 A responsive, accessible, and interactive personal portfolio web application built as part of the Full Stack Development (SPC0701CS) coursework. The portfolio showcases academic background, technical skills, featured projects, certifications, and direct contact options.
 
-## 🚀 Live Repository
+##  Live Repository
 * **GitHub Repository:** [https://github.com/NavyaSri-22/personal-portfolio](https://github.com/NavyaSri-22/personal-portfolio)
 * **Live Website:** https://navyasri-22.github.io/personal-portfolio/
 
 ---
 
-## 📌 Features & Functional Highlights
+##  Features & Functional Highlights
 
 - **Semantic HTML5 Structure:** Built using semantic elements (`<nav>`, `<section>`, `<article>`, `<footer>`, `<table>`) for accessibility and optimal DOM organization.
 - **Responsive CSS3 & Bootstrap 5 Design:** Utilizes Bootstrap’s mobile-first grid system, flexbox containers, custom spacing, modern visual cards, and typography.
@@ -18,7 +18,7 @@ A responsive, accessible, and interactive personal portfolio web application bui
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+)
 - **UI Framework:** Bootstrap 5.3
@@ -27,7 +27,7 @@ A responsive, accessible, and interactive personal portfolio web application bui
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 personal-portfolio/
